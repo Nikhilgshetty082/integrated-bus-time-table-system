@@ -22,4 +22,12 @@ This project focuses on SDLC implementation rather than full application deploym
 1. **Requirement Analysis** – documented in Confluence  
 2. **Project Planning** – tasks and milestones created in Jira  
 3. **Implementation** – basic project structure maintained in GitHub  
-4. **Testing & R**
+4. **Testing & Review** – task progress tracked in Jira  
+5. **Documentation** – maintained using Confluence  
+
+## Repository Contents
+- `index.html` – basic project webpage
+- `README.md` – project overview and SDLC explanation
+
+## Author
+**Nikhil G Shetty**
