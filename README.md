@@ -13,6 +13,15 @@ project management and version control tools.
 - **Confluence**: Project planning, requirement documentation, SDLC reporting
 - **GitHub**: Version control and collaboration
 
+## Jira Integration
+All tasks, milestones, and issues are created and managed using Jira.
+Task status is tracked using To Do, In Progress, and Done columns.
+
+## Documentation
+Project planning, SDLC phases, effort estimation, and progress reports
+are created and maintained using Confluence.
+
+
 ## Project Description
 The Integrated Bus Time Table System allows users to view bus schedules
 and timings in a simple and organized manner.  
